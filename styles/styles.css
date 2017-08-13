@@ -1,0 +1,25 @@
+*{
+	
+}
+
+#logo {
+	padding-top: 109px;
+	width: 272px;
+	height: 92px;
+}
+
+center.buttons {
+  padding-top: 18px;
+}
+
+#search{
+	width: 600px;
+	height: 34px;
+}
+
+div.lsb{
+	display:block;
+	margin: auto;
+}
+	
+}
