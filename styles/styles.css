@@ -1,5 +1,5 @@
 *{
-	
+
 }
 
 a{
@@ -8,7 +8,7 @@ a{
 
 #logo {
 	margin-left: 246px;
-	padding-top: 109px;
+	padding-top: 218px;
 	width: 272px;
 	height: 92px;
 }
@@ -53,14 +53,48 @@ center.buttons {
 span.lsb{
 	height: 233px;
 	margin-top: 89px;
+	padding-bottom: 48px;
 }
-	
+
 div.headLinks{
 	position: relative;
 	padding: 12px;
 	display: flex;
 	align-items: center;
   float:right;
+}
+
+span.leftFootLinks * {
+	font-family: arial, sans-serif;
+	color: black;
+	padding: 0 5px;
+}
+
+span.rightFootLinks * {
+	font-family: arial, sans-serif;
+	color: black;
+	float: right;
+	padding: 0 5px;
+}
+
+.leftFootLinks {
+	position: absolute;
+	bottom: 0;
+	padding: 5px 5px;
+}
+
+.rightFootLinks {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding: 5px 5px;
+}
+
+#leftFootLinks {
+}
+
+#body {
+	padding-bottom: 150px;
 }
 
 .gmailImages{
